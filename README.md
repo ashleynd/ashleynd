@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/KEexxjxK16lBoE162o/giphy.gif" width="70px">, I am Ashley!
+---
+I’m currently studying Software Engineering at Springboard, and I’m seeking out-of-state opportunities in Software Engineering and possibly even apparel companies.
 
+I’ve been Graphic Designer with 7 years of experience in the design industry. I’ve taken charge of the packaging for some of the major tailored menswear brands including Michael Kors, Tommy Hilfiger, and Hart Schaffner Marx. As I see the world is evolving away from static paper packaging, I decided to pursue a major career pivot to Software Engineering.
+
+My technical abilities:
+Javascript • HTML5 • CSS • VS Code • DOM Manipulation • APIs/AJAX • Git/GitHub • Jasmine Testing • ES2015 • Twitter Bootstrap • jQuery • Python • Flask • Hosting
+
+---
 <!--
 **ashleynd/ashleynd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
