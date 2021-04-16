@@ -18,7 +18,13 @@ Javascript • HTML5 • CSS • VS Code • DOM Manipulation • APIs/AJAX • 
 🧰 Graphic Design Toolbox 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="Behance logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/adobe-creative-cloud-cc.svg" alt="adobercreativecloud logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="illustrator logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="indesign logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" alt="sketch logo" width="50" height="50" />
- 
+
+---
+
+👩🏻‍💻My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleynd&theme=radical)](https://github.com/ashleynd/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleynd&theme=outrun)](https://github.com/ashleynd/github-readme-stats)
+
 ---
 
 📺 Latest Interesting Videos:
@@ -34,6 +40,7 @@ Javascript • HTML5 • CSS • VS Code • DOM Manipulation • APIs/AJAX • 
 👉🏻 [How Graphic Design Influences Software Engineering](https://inkbotdesign.medium.com/how-graphic-design-influences-software-engineering-e2b13268145)
 
 👉🏻 [Springboard Blog: Women in Tech](https://www.springboard.com/blog/women-in-tech-stem-gender-gap/)
+
 
 <!--
 **ashleynd/ashleynd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
