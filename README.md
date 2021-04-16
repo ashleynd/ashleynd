@@ -20,9 +20,21 @@ Javascript • HTML5 • CSS • VS Code • DOM Manipulation • APIs/AJAX • 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="Behance logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/adobe-creative-cloud-cc.svg" alt="adobercreativecloud logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="illustrator logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="indesign logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" alt="sketch logo" width="50" height="50" />
  
+---
 
+📺 Latest Interesting Videos:
 
+➡️ [How To Remember Everything When Learning How To Code](https://www.youtube.com/watch?v=RpQDgSpS3RI)
 
+➡️ [MIT Lecture on Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/)
+
+__
+
+📖 Latest Interesting Articles
+
+👉🏻 [How Graphic Design Influences Software Engineering](https://inkbotdesign.medium.com/how-graphic-design-influences-software-engineering-e2b13268145)
+
+👉🏻 [Springboard Blog: Women in Tech](https://www.springboard.com/blog/women-in-tech-stem-gender-gap/)
 
 <!--
 **ashleynd/ashleynd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
