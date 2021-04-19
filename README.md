@@ -20,7 +20,7 @@ I’ve been Graphic Designer with 7 years of experience in the design industry. 
 
 👩🏻‍💻My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorwagner&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorwagner&hide=java,html,css&theme=radical)](https://github.com/taylorwagner/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleynd&theme=outrun)](https://github.com/ashleynd/github-readme-stats)
 
 ---
