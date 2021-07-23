@@ -10,7 +10,7 @@
 
 🧰 Graphic Design Toolbox 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="Behance logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/adobe-creative-cloud-cc.svg" alt="adobercreativecloud logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="illustrator logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="indesign logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" alt="sketch logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="Behance logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/adobe-creative-cloud-cc.svg" alt="adobercreativecloud logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="illustrator logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="indesign logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" alt="sketch logo" width="50" height="50" />
 
 ---
 
