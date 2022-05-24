@@ -14,25 +14,6 @@
 
 ---
 
-👩🏻‍💻My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleynd&theme=radical)](https://github.com/ashleynd/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleynd&theme=outrun)](https://github.com/ashleynd/github-readme-stats)
-
----
-
-📺 Latest Interesting Videos:
-
-➡️ [How To Remember Everything When Learning How To Code](https://www.youtube.com/watch?v=RpQDgSpS3RI)
-
-➡️ [MIT Lecture on Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/)
-
----
-
-📖 Latest Interesting Articles
-
-👉🏻 [How Graphic Design Influences Software Engineering](https://inkbotdesign.medium.com/how-graphic-design-influences-software-engineering-e2b13268145)
-
-👉🏻 [Springboard Blog: Women in Tech](https://www.springboard.com/blog/women-in-tech-stem-gender-gap/)
 
 
 <!--
